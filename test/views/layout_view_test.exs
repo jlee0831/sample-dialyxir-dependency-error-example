@@ -1,0 +1,3 @@
+defmodule SampleDialyxirDependencyErrorExample.LayoutViewTest do
+  use SampleDialyxirDependencyErrorExample.ConnCase, async: true
+end
